@@ -1,0 +1,32 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "Spark"
+        ],
+        "url": "https://github.com/CQQN-Spark/Sparks-shader",
+        "license": "License"
+    },
+    "header": {
+        "name": "Sparks shaders",
+        "description": "a shader for world 2020",
+        "uuid": "dad2c509-0045-690d-9dd2-5b3545ce27b2",
+        "version": [0, 3, 0],
+        "min_engine_version": [1, 14, 1]
+    },
+    "modules": [
+        {
+            "description": "a shader for wirld 2020",
+            "type": "resources",
+            "uuid": "081470d0-d2af-2a21-297a-6c530e98c501",
+            "version": [0, 3, 0]
+        }
+    ],
+    "subpacks": [
+       {
+            "folder_name": "regular",
+            "name": "regular",
+            "memory_tier": 1
+       }
+    ]
+}
